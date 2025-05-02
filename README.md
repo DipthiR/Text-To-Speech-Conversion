@@ -1,4 +1,8 @@
-# Text-To-Speech-Conversion
+Here's the entire README content in a single code block:
+
+markdown
+Copy
+Edit
 # Text-to-Speech Conversion
 
 This is a Python-based Text-to-Speech (TTS) program that uses the `pyttsx3` library to convert text entered by the user into speech. It supports adjustable speech rate and the option to choose between a male or female voice for speech synthesis.
@@ -20,7 +24,3 @@ This is a Python-based Text-to-Speech (TTS) program that uses the `pyttsx3` libr
 To install the `pyttsx3` library, you can use `pip`:
 ```bash
 pip install pyttsx3
-
-
-
-
