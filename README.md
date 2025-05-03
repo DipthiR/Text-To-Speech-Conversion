@@ -24,3 +24,23 @@ This is a Python-based Text-to-Speech (TTS) program that uses the `pyttsx3` libr
 To install the `pyttsx3` library, you can use `pip`:
 ```bash
 pip install pyttsx3
+```
+## 🚀 Usage
+Run the script using Python:
+
+python translation.py
+## Example Flow:
+
+🌍 Text Translator
+Enter target language (like 'fr', 'ta', 'en'): ta
+
+Translating everything to 'ta'. Type 'exit' to quit.
+
+Enter text to translate: Hello, how are you?
+🔤 Translated: ஹலோ, நீங்கள் எப்படி இருக்கிறீர்கள்?
+
+Enter text to translate: What are you doing?
+🔤 Translated: நீங்கள் என்ன செய்கிறீர்கள்?
+
+Enter text to translate: exit
+Goodbye! 👋
